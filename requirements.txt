@@ -1,0 +1,6 @@
+# Pinned to versions verified in Oct 2026
+google-adk==2.11.0     # Agent framework (brings google-genai for Gemini)
+msal==1.39.0           # Microsoft login (OAuth 2.0 public client + token cache)
+httpx==0.28.1          # HTTP client for Microsoft Graph calls
+python-dotenv==1.2.4   # Loads the .env file
+pytest==9.1.1          # Tests (dev only)
